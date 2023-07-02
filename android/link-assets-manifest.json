@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Aileron-Black.otf",
+      "sha1": "ee7043b1b568065248b762131882b0fee534a4ae"
+    },
+    {
+      "path": "src/assets/fonts/Aileron-Bold.otf",
+      "sha1": "4cab3574a70b6c2b65b87121074adcd21b0d1b96"
+    },
+    {
+      "path": "src/assets/fonts/Aileron-Heavy.otf",
+      "sha1": "d33bc9f7992c21da3755dbca79383889217cab39"
+    },
+    {
+      "path": "src/assets/fonts/Aileron-Light.otf",
+      "sha1": "f369e6be35775f2fb8b979129ab12edc2b199bcf"
+    },
+    {
+      "path": "src/assets/fonts/Aileron-Regular.otf",
+      "sha1": "950adda857e71cf983192b79501b535f7e85da49"
+    },
+    {
+      "path": "src/assets/fonts/Aileron-SemiBold.otf",
+      "sha1": "6cf804659ab13f09971fafe59d10e92567ef2a0a"
+    },
+    {
+      "path": "src/assets/fonts/Aileron-Thin.otf",
+      "sha1": "babe250e105d763e060148b9b8832e0a77112e85"
+    },
+    {
+      "path": "src/assets/fonts/Aileron-UltraLight.otf",
+      "sha1": "3234fc379e9960988772fed58e632993cc8e66c9"
+    }
+  ]
+}
